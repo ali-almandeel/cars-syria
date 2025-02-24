@@ -1,0 +1,17 @@
+{
+    "-------------SIDEBAR-------------": "-------------SIDEBAR-------------",
+    "sidebar.logout" : "logout",
+    "sidebar.avatar" : "Convert Language",
+    "inputTitle": "User Name",
+    "-------------COMMON-------------": "-------------COMMON-------------",
+    "common.username":"Username",
+     "-------------AUTH-------------": "-------------AUTH-------------",
+    "auth.login":"Login",
+    "auth.usernamePlaceholder":"Enter Your Username",
+    "auth.passwordPlaceholder":"Enter Your Password",
+    "auth.password":"Password",
+    "auth.usernameValid" : "username is a required field",
+    "auth.passwordValid" : "password must be at least 8 characters"
+    
+}
+  

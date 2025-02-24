@@ -1,0 +1,18 @@
+{
+    "-------------SIDEBAR-------------": "-------------SIDEBAR-------------",
+    "sidebar.logout" : "تسجيل خروج",
+    "sidebar.avatar" : "تبديل اللغة",
+    "inputTitle": "إسم المستخدم",
+
+    "-------------COMMON-------------": "-------------COMMON-------------",
+    "common.username":"إسم المستخدم",
+
+    "-------------AUTH-------------": "-------------AUTH-------------",
+    "auth.login":"تسجيل الدخول",
+    "auth.usernamePlaceholder":"أدخل إسم المستخدم",
+    "auth.passwordPlaceholder":"أدخل كلمة المرور",
+    "auth.password":"كلمة المرور",
+    "auth.usernameValid" : "اسم المستخدم مطلوب",
+    "auth.passwordValid" : "يجب أن تكون كلمة المرور اكثر من 8 محارف واقل من 32"
+}
+  
